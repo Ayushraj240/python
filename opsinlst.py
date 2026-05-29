@@ -1,0 +1,10 @@
+#sum
+lst=[1,2,3,4,5]
+#print(sum(lst))
+#pop
+#print(lst.pop())
+#print(lst)
+#print(lst.pop(1))
+#print(lst)
+count=lst.count(3)
+print(count)

@@ -1,0 +1,12 @@
+my_str='ayush'
+print(my_str.isalnum())
+print(my_str.isalpha())
+print(my_str.isdigit())
+print(my_str.islower())
+print(my_str.isupper())
+print(my_str.isnumeric())
+print(my_str.isprintable())
+print(my_str.isspace())
+print(my_str.istitle())
+print(my_str.endswith('h'))
+print(my_str.startswith('a'))
